@@ -1,6 +1,6 @@
 # Hi there! I'm Shunya 👋:
 
-- 🔭 I’m currently a final-year PhD student in Social Data Science
+- 🔭 I’m a PhD graduate in Social and Geographic Data Science
 - 🌱 I’m interested in data mining, machine learning and spatial statistics
 - 📫 How to reach me: [kimushun618@gmail.com](mailto:kimushun618@gmail.com)
 
